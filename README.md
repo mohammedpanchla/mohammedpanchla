@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Mohammed Panchla
 
-<!--
-**ksmd961-hue/ksmd961-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Machine Learning and Deep Learning enthusiast focused on building real-world AI systems, particularly in Medical Imaging and Computer Vision.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Current Focus
+
+- Brain Tumor Detection using Deep Learning
+- Brain Tumor Segmentation (UNet)
+- End-to-End ML Deployment using Flask
+- Transfer Learning with PyTorch
+
+---
+
+## 🧠 Technical Skills
+
+- Python
+- PyTorch
+- Deep Learning (CNN, Transfer Learning)
+- Computer Vision
+- Model Evaluation & Validation
+- Flask Deployment
+- Data Analysis
+
+---
+
+## 📂 Featured Projects
+
+- Brain Tumor Detection using VGG16 (Transfer Learning)
+- Stroke Prediction ML System
+- Fraud Detection Model
+- Hospital Readmission Prediction
+
+---
+
+## 🎯 Career Goal
+
+To build intelligent AI systems that solve real-world healthcare and industrial problems.
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn: (add link here later)
