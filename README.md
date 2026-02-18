@@ -43,4 +43,4 @@ To build intelligent AI systems that solve real-world healthcare and industrial 
 
 ## 📫 Connect with Me
 
-LinkedIn: (add link here later)
+LinkedIn: (www.linkedin.com/in/flowgenix-ai-b51517278)
