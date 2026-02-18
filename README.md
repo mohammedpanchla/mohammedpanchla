@@ -28,9 +28,10 @@ I am a Machine Learning and Deep Learning enthusiast focused on building real-wo
 ## 📂 Featured Projects
 
 - Brain Tumor Detection using VGG16 (Transfer Learning)
-- Stroke Prediction ML System
-- Fraud Detection Model
-- Hospital Readmission Prediction
+- NeuroScan AI — Brain Tumor Segmentation using U-Net + VGG16 (Medical AI, HuggingFace Deployment)
+- ECG Heartbeat Classification using CNN + LSTM (PTB Dataset, HuggingFace Deployment)
+- Hospital Readmission Prediction (Machine Learning, Healthcare Analytics)
+
 
 ---
 
