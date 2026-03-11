@@ -38,7 +38,14 @@ In the past 5 months I have built multiple end-to-end machine learning systems i
 
 ## 📊 Other ML Projects (10+)
 
-Brain tumor detection & segmentation · ECG heartbeat classification · Heart disease & stroke prediction · Hospital readmission · Calorie prediction · Titanic survival
+Other ML Experiments (10+)
+
+• Brain tumor classification & segmentation  
+• ECG heartbeat classification  
+• Cardiovascular risk prediction  
+• Hospital readmission prediction  
+• Clinical data regression models  
+• Classic ML experiments (Titanic, calorie prediction, etc.)
 
 ---
 
