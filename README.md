@@ -1,7 +1,12 @@
 # Hi, I'm Mohammed Panchla
 
-I'm an 18-year-old self-taught AI/ML Engineer and Medical AI Specialist who built production-grade Clinical AI systems from scratch within 5 months. I combine deep technical expertise in deep learning, computer vision, and NLP with a biomedical science foundation — and I'm incoming to BSc Biomedical Science at UCLan, UK (Sept 2025).
+Hi, I'm Mohammed Panchla
 
+I'm an 18-year-old self-taught AI/ML engineer focused on Medical AI.  
+In the past 5 months I have built multiple end-to-end machine learning systems including medical imaging models, clinical NLP pipelines, and deployed AI demos.
+
+My work combines deep learning, computer vision, and NLP with a biomedical science foundation.  
+I'm preparing to begin a BSc in Biomedical Science at UCLan, UK (Sept 2025).
 ---
 
 ## 🔍 Current Focus
