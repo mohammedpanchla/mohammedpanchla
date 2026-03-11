@@ -48,3 +48,11 @@ To combine AI/ML expertise with Biomedical Science to work at the intersection o
 - 🤗 Hugging Face: [huggingface.co/muhammedpanchla](https://huggingface.co/muhammedpanchla)
 - 💼 LinkedIn: [linkedin.com/in/flowgenix-ai](https://linkedin.com/in/flowgenix-ai-b51517278)
 - 🐙 GitHub: [github.com/mohammedpanchla](https://github.com/mohammedpanchla)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohammedpanchla&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mohammedpanchla&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedpanchla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
