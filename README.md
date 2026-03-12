@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Panchla
 
-Hi, I'm Mohammed Panchla
+Hi, I'm Mohammed Panchla 
 
 I'm an 18-year-old self-taught AI/ML engineer focused on Medical AI.  
 In the past 5 months I have built multiple end-to-end machine learning systems including medical imaging models, clinical NLP pipelines, and deployed AI demos.
