@@ -1,4 +1,4 @@
-# Hi, I'm Mohammed Panchla
+# Hi, I'm Mohammed Usman Panchla
 
 
 I'm an 18-year-old self-taught AI/ML engineer focused on Medical AI.  
