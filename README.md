@@ -10,8 +10,8 @@ In the past 5 months I have built multiple end-to-end machine learning systems i
 
 ## 🔍 Current Focus
 
-- **ClinAI** — Multi-model clinical diagnostic platform (Brain Tumor Detection + Segmentation + ECG + Heart & Stroke Risk) deployed on Hugging Face.
-- **CheXReport** — Chest X-ray report generation using DenseNet121 + BioGPT (Vision-Language Model).
+- **ClinAI** — Multi-model clinical diagnostic platform (Brain Tumor Detection + Segmentation + ECG + Heart & Stroke Risk) deployed on Hugging Face
+- **CheXReport** — Chest X-ray report generation using DenseNet121 + BioGPT (Vision-Language Model)
 - **MediExtract** — Clinical NLP pipeline converting radiology reports to structured JSON
 - End-to-End ML Deployment using FastAPI + Docker
 - Preparing for BSc Biomedical Science (UCLan, UK — Sept 2025)
