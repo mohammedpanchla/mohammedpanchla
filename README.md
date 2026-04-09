@@ -14,7 +14,7 @@ In the past 5 months I have built multiple end-to-end machine learning systems i
 - **CheXReport** — Chest X-ray report generation using DenseNet121 + BioGPT (Vision-Language Model)
 - **MediExtract** — Clinical NLP pipeline converting radiology reports to structured JSON
 - End-to-End ML Deployment using FastAPI + Docker
-- Preparing for BSc Biomedical Science (UCLan, UK — Sept 2026)
+- Preparing for BSc Biomedical Science (UCLan, UK — Sept 2025)
 
 ---
 
