@@ -3,7 +3,7 @@
 I'm an 18-year-old self-taught AI/ML engineer focused on Medical AI.  
 In the past 5 months I have built multiple end-to-end machine learning systems including medical imaging models, clinical NLP pipelines, and deployed AI demos.
 
-**My work combines deep learning, computer vision, and NLP with a biomedical science foundation.** 
+**My work combines deep learning, genomics, computer vision, and NLP with a biomedical science foundation.** 
 
 ---
 
