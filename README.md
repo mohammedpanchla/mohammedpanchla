@@ -44,7 +44,7 @@ Other ML Experiments (10+)
 • Cardiovascular risk prediction  
 • Hospital readmission prediction  
 • Clinical data regression models  
-• Classic ML experiments (Titanic, calorie prediction, etc.)
+• Classic ML experiments (Titanic, calorie prediction, etc..)
 
 ---
 
